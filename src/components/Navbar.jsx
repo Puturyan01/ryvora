@@ -14,11 +14,11 @@ export default function Navbar() {
   return (
     <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-[92%] max-w-5xl">
       <nav className="glass-card !rounded-full flex items-center justify-between px-6 py-3 md:px-3 md:py-3">
-        <a
-          href="#top"
-          className="font-heading text-lg font-semibold tracking-tight text-text-primary pl-2"
-        >
-          Ryvora
+        <a href="#top" className="flex items-center gap-2 pl-2">
+          <img src="/logo.png" alt="Ryvora" className="h-7 w-auto" />
+          <span className="font-heading text-lg font-semibold tracking-tight text-text-primary">
+            Ryvora
+          </span>
         </a>
 
         <div className="hidden md:flex items-center gap-8">
