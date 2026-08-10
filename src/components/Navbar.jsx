@@ -67,7 +67,7 @@ export default function Navbar() {
           <a
             href="#contact"
             onClick={() => setOpen(false)}
-            className="mt-1 rounded-full bg-text-primary px-3 py-2.5 text-center text-sm font-medium text-white"
+            className="mt-1 rounded-full bg-accent px-3 py-2.5 text-center text-sm font-medium text-white"
           >
             Hire me
           </a>
