@@ -4,10 +4,12 @@
 @theme {
   --color-bg-primary: #FFFFFF;
   --color-bg-tint: #F5F5F3;
-  --color-text-primary: #1A1A1A;
+  --color-text-primary: #0B163D;
   --color-text-muted: #7A7A76;
-  --color-blob-blue: #D9E4FF;
-  --color-blob-violet: #F3E3FF;
+  --color-accent: #2A5FE3;
+  --color-accent-dark: #0D359C;
+  --color-blob-blue: #DCE6FF;
+  --color-blob-violet: #E4E9FF;
   --font-heading: "Space Grotesk", sans-serif;
   --font-sans: "Inter", sans-serif;
 }

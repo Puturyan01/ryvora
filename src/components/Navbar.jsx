@@ -37,7 +37,7 @@ export default function Navbar() {
 
           <a
             href="#contact"
-            className="inline-flex items-center rounded-full bg-text-primary px-5 py-2.5 text-sm font-medium text-white hover:opacity-90 transition-opacity"
+            className="inline-flex items-center rounded-full bg-accent px-5 py-2.5 text-sm font-medium text-white hover:opacity-90 transition-opacity"
           >
             Hire me
           </a>

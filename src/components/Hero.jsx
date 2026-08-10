@@ -41,7 +41,7 @@ export default function Hero() {
         <div className="mt-8 flex items-center justify-center gap-3">
           <a
             href="#contact"
-            className="inline-flex items-center gap-2 rounded-full bg-text-primary px-6 py-3 text-sm font-medium text-white hover:opacity-90 transition-opacity"
+            className="inline-flex items-center gap-2 rounded-full bg-accent px-6 py-3 text-sm font-medium text-white hover:opacity-90 transition-opacity"
           >
             Start a project
             <ArrowUpRight size={16} />

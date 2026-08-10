@@ -21,7 +21,7 @@ export default function CTA() {
                             href="https://fastwork.id/byob/qR0ntr0BN4?openExternalBrowser=1&source=byob"
                             target="_blank"
                             rel="noopener norenferrer"
-                            className="mt-8 inline-flex items-center gap-2 rounded-full bg-text-primary px-7 py-3.5 text-sm font-medium text-white hover:opacity-90 transition-opacity"
+                            className="mt-8 inline-flex items-center gap-2 rounded-full bg-accent px-7 py-3.5 text-sm font-medium text-white hover:opacity-90 transition-opacity"
                         >
                             Start a project
                             <ArrowUpRight size={16} />
